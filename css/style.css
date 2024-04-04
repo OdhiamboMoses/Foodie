@@ -17,6 +17,7 @@ header {
     position: fixed;
     overflow: hidden;
     background-color: white;
+    z-index: 10;
 }
 header h2 span{
     color: #f05d18;
